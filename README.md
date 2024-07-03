@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadnasaruddin&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadnasaruddin" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce Website - Django**
+- 🔭 I’m currently working on **Different Python and Django Projects*
 
 - 🌱 I’m currently learning **ReactJS**
 
